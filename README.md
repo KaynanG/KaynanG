@@ -5,7 +5,6 @@
 
 <!--painel de status-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaynanG&show_icons=true&theme=onedark)](https://github.com/KaynanG/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=KaynanG&layout-langs=true&theme=onedark)
 
 ## Linguagens: 🤖
 </div>
