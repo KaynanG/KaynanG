@@ -1,7 +1,9 @@
 ## Olá, sou o Kaynan Gomes! 🙂
 
-- 👨🏾‍💻 Front-End Jr.
-- 🌱 Estudando: HTML, CSS, JavaScript
+- 👷🏾 Trabalho no ramo da logística
+- 📘 Estudo Gestão da Tecnologia da Informação
+- 👨🏾‍💻 Me aventuro nos projetos de Front-End.
+- 🌱 HTML, CSS, JavaScript
 
 <!--painel de status-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaynanG&show_icons=true&theme=onedark)](https://github.com/KaynanG/github-readme-stats)
