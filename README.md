@@ -1,12 +1,12 @@
 ## Olá, sou o Kaynan Gomes! 🙂
 
-- 👨🏾‍💻 front-end Jr.
+- 👨🏾‍💻 Front-End Jr.
 - 🌱 Estudando: HTML, CSS, JavaScript
 
 <!--painel de status-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaynanG&show_icons=true&theme=onedark)](https://github.com/KaynanG/github-readme-stats)
 
-## Linguagens: 🤖
+## Linguagens:
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
